@@ -16,7 +16,7 @@ My repositories have been temporarily made private
 ## &#x1f4c8; GitHub Stats
 
 <br>
-[image](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)
+[![Buzz's GitHub Stats](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)](#)
 <br>
 
 ## 💼 Skills
