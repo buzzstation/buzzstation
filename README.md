@@ -14,11 +14,8 @@ My repositories have been temporarily made private
 <br>
 
 ## &#x1f4c8; GitHub Stats
+![Screenshot](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)
 
-<br>
-[![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)](https://braydoncoyer.dev)
-
-<br>
 
 ## 💼 Skills
 
