@@ -15,7 +15,6 @@ My repositories have been temporarily made private
 
 ## &#x1f4c8; GitHub Stats
 ![Screenshot](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)
-![Screenshot](https://cdn.discordapp.com/attachments/841197221578801172/1049091391491424276/Untitled-1.png)
 
 ## 💼 Skills
 
