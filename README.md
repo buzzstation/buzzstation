@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/841197221578801172/1049090486549352499/GitHubHeader.png)](#)
+[![Buzz's GitHub Banner](https://cdn.discordapp.com/attachments/841197221578801172/1049090486549352499/GitHubHeader.png)](#)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com)
@@ -16,7 +16,7 @@ My repositories have been temporarily made private
 ## &#x1f4c8; GitHub Stats
 
 <br>
-![image](https://user-images.githubusercontent.com/119819372/205519074-cfc43ab0-2f3c-4317-94ba-bfa5bca70a04.png)
+[image](https://cdn.discordapp.com/attachments/841197221578801172/1049090660524900463/image.png)
 <br>
 
 ## 💼 Skills
