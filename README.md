@@ -13,11 +13,7 @@ My repositories have been temporarily made private
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+![image](https://user-images.githubusercontent.com/119819372/205519074-cfc43ab0-2f3c-4317-94ba-bfa5bca70a04.png)
 <br>
 
 ## 💼 Skills
